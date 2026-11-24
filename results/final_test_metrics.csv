@@ -1,0 +1,2 @@
+Model,Test_Samples,Accuracy,Precision_Macro,Recall_Macro,F1_Macro,F1_Weighted,Training_Time,Prediction_Time
+Scenario_3_Hybrid_Fusion + Logistic Regression,1631,0.9895769466584917,0.9896436858697011,0.9896173618884383,0.9896200031050366,0.9895821273202606,3.980135440826416,0.08745574951171875
