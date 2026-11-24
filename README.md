@@ -1,0 +1,2 @@
+# Tomato-Leaf-Disease-Classification-Using-Hybrid-CNN-Vision-Transformer-Feature-Fusion
+This project explores tomato leaf disease classification by comparing three deep learning approaches: ResNet + EfficientNet feature fusion, Vision Transformer (ViT), and a hybrid fusion combining ResNet, EfficientNet, and ViT. The goal is to evaluate the effectiveness of CNN and Transformer-based feature representations for image classification.
